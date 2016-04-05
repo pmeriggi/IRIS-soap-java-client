@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='/oai2.xsl' ?>
+
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/">
+  <responseDate>2006-10-17T09:49:05Z</responseDate>
+  <request verb="ListSets">http://www.fedoa.unina.it/perl/oai2</request>
+  <ListSets>
+  <set>
+    <setSpec>7374617475733D696E7072657373</setSpec>
+    <setName>Stato dell'Eprint = In Pubblicazione</setName></set>
+  <set>
+    <setSpec>7374617475733D7375626D6974746564</setSpec>
+    <setName>Stato dell'Eprint = Sottomesso</setName></set>
+  <set>
+    <setSpec>7374617475733D707562</setSpec>
+    <setName>Stato dell'Eprint = Pubblicato</setName></set>
+  <set>
+    <setSpec>7374617475733D756E707562</setSpec>
+    <setName>Stato dell'Eprint = Non Pubblicato</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/07 LINGUA E TRADUZIONE - LINGUA SPAGNOLA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/12 MISURE MECCANICHE E TERMICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3436</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/46 SCIENZE TECNICHE DI MEDICINA DI LABORATORIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3232</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/22 CHIRURGIA VASCOLARE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/09 MEDICINA INTERNA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/03 CHIMICA GENERALE E INORGANICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/07 FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA)</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D4747522F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-GGR/11 GEOGRAFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/01 FISICA SPERIMENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO COMMERCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/01 BOTANICA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/17 DISEGNO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/03 GEOMETRIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/01 LOGICA MATEMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/02 DIDATTICA DELLE LINGUE MODERNE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/01 FILOSOFIA POLITICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/02 CHIMICA FISICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/03 STORIA ROMANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/19 LINGUE E LETTERATURE MODERNE DEL SUBCONTINENTE INDIANO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/05 PATOLOGIA CLINICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/20 ARCHEOLOGIA, STORIA DELL'ARTE E FILOSOFIE DELL'ASIA ORIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/01 STORIA DEL VICINO ORIENTE ANTICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/20 ZOOCOLTURE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/07 PETROLOGIA E PETROGRAFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3331</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/31 OTORINOLARINGOIATRIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3232</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/22 ESTIMO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/09 CLINICA CHIRURGICA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/12 SOCIOLOGIA GIURIDICA, DELLA DEVIANZA E MUTAMENTO SOCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/07 ECOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/04 ISPEZIONE DEGLI ALIMENTI DI ORIGINE ANIMALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/03 GEOLOGIA STRUTTURALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/08 IDRAULICA AGRARIA E SISTEMAZIONI IDRAULICO-FORESTALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/03 LETTERATURA FRANCESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/04 STRADE, FERROVIE ED AEROPORTI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/09 FARMACEUTICO TECNOLOGICO APPLICATIVO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/09 TOPOGRAFIA ANTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/11 ARCHEOLOGIA E STORIA DELL'ARTE MUSULMANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/11 LETTERATURA ITALIANA CONTEMPORANEA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3331</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/31 ELETTROTECNICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3238</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/28 MALATTIE ODONTOSTOMATOLOGICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3232</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/22 SCIENZA E TECNOLOGIA DEI MATERIALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/13 SCIENZE MERCEOLOGICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/02 LOGICA E FILOSOFIA DELLA SCIENZA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3332</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/32 CONVERTITORI, MACCHINE E AZIONAMENTI ELETTRICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:494E462F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: INF/01 INFORMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/08 EBRAICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3333</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/33 SISTEMI ELETTRICI PER L'ENERGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/18 FISICA DEI REATTORI NUCLEARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/05 PAPIROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/06 STORIA DELLA FILOSOFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/11 LINGUE E LETTERATURE ANGLO-AMERICANE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3238</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/28 INGEGNERIA E SICUREZZA DEGLI SCAVI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/10 BIOCHIMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/18 NUTRIZIONE E ALIMENTAZIONE ANIMALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3332</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/32 AUDIOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/17 ISTOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/07 PROPULSIONE AEROSPAZIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5045442F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PED/01 PEDAGOGIA GENERALE E SOCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/01 ECONOMIA POLITICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3233</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/23 CHIRURGIA CARDIACA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/06 ONCOLOGIA MEDICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/05 FILOLOGIA CLASSICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/16 ARCHITETTURA DEGLI INTERNI E ALLESTIMENTO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/05 TRASPORTI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/03 STORIA DELL'ARTE CONTEMPORANEA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/06 PROBABILITA' E STATISTICA MATEMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/09 TECNICA DELLE COSTRUZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/09 FISIOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/01 STORIA MEDIEVALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/09 FILOLOGIA E LINGUISTICA ROMANZA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/05 ZOOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/10 CLINICA OSTETRICA E GINECOLOGIA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/12 GASTROENTEROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/09 PALEOGRAFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/10 ARCHITETTURA TECNICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO DELL'UNIONE EUROPEA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/06 ARCHEOLOGIA FENICIO-PUNICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/02 ALGEBRA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/01 ARCHITETTURA NAVALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/13 CHIMICA AGRARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/08 CLINICA MEDICA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3437</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/47 SCIENZE INFERMIERISTICHE OSTETRICO-GINECOLOGICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PROCESSUALE PENALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO DELLA NAVIGAZIONE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/17 FILOSOFIE, RELIGIONI E STORIA DELL'INDIA E DELL'ASIA CENTRALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO AMMINISTRATIVO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/06 CHIMICA ORGANICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/04 MATEMATICHE COMPLEMENTARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/06 METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/06 CINEMA, FOTOGRAFIA E TELEVISIONE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3236</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/26 TEORIA DELLO SVILUPPO DEI PROCESSI CHIMICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/06 PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/17 LINGUA E LETTERATURA ROMENA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/09 RICERCA OPERATIVA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/04 FISICA NUCLEARE E SUBNUCLEARE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/14 PROGETTAZIONE MECCANICA E COSTRUZIONE DI MACCHINE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/07 GENETICA AGRARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/14 CRITICA LETTERARIA E LETTERATURE COMPARATE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/04 CHIMICA INDUSTRIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/19 MICROBIOLOGIA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/14 LINGUA E TRADUZIONE - LINGUA TEDESCA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/05 ECONOMETRIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5045442F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PED/04 PEDAGOGIA SPERIMENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/04 GEOGRAFIA FISICA E GEOMORFOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/04 MUSEOLOGIA E CRITICA ARTISTICA E DEL RESTAURO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/08 ANTROPOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/05 STORIA E ISTITUZIONI DELLE AMERICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/10 STORIA DEI PAESI ISLAMICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/02 AGRONOMIA E COLTIVAZIONI ERBACEE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3439</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/49 SCIENZE TECNICHE DIETETICHE APPLICATE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/14 COMPOSIZIONE ARCHITETTONICA E URBANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/13 BIOLOGIA APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3336</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/36 DIAGNOSTICA PER IMMAGINI E RADIOTERAPIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/19 RESTAURO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/11 MALATTIE DELL'APPARATO CARDIOVASCOLARE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3236</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/26 NEUROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/13 MECCANICA APPLICATA ALLE MACCHINE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PENALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/03 FISICA DELLA MATERIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/08 ETNOMUSICOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/04 NUMISMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/10 COSTRUZIONI RURALI E TERRITORIO AGROFORESTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/38 TELECOMUNICAZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3435</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/45 SCIENZE INFERMIERISTICHE GENERALI, CLINICHE E PEDIATRICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/21 METALLURGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3234</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/24 PRINCIPI DI INGEGNERIA CHIMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/18 INDOLOGIA E TIBETOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/11 BIOLOGIA MOLECOLARE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/04 STORIA DEL PENSIERO ECONOMICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/11 GEOFISICA APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/09 LINGUE E LETTERATURE DELL'AFRICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3434</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/44 MEDICINA DEL LAVORO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO TRIBUTARIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D4544462F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-EDF/01 METODI E DIDATTICHE DELLE ATTIVITA' MOTORIE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/05 ASSESTAMENTO FORESTALE E SELVICOLTURA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/14 FILOLOGIA, RELIGIONI E STORIA DELL'IRAN</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/01 ECONOMIA ED ESTIMO RURALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/10 ORGANIZZAZIONE AZIENDALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/01 PALEONTOLOGIA E PALEOECOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/08 SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/02 STORIA MODERNA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/14 STORIA E ISTITUZIONI DELL'ASIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/03 STATISTICA ECONOMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/16 LINGUA E LETTERATURA NEDERLANDESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/01 ANATOMIA DEGLI ANIMALI DOMESTICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/16 ANATOMIA UMANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3330</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/30 IDROCARBURI E FLUIDI DEL SOTTOSUOLO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/02 STORIA DELLE DOTTRINE POLITICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/10 LETTERATURA ITALIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/19 FILOLOGIA UGRO-FINNICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/11 PRODUZIONE EDILIZIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3235</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/25 IMPIANTI CHIMICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/10 METODOLOGIE DELLA RICERCA ARCHEOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/06 ETRUSCOLOGIA E ANTICHITA' ITALICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/05 PSICOLOGIA SOCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/20 TECNICA E PIANIFICAZIONE URBANISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/05 MALATTIE INFETTIVE DEGLI ANIMALI DOMESTICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/18 CHIRURGIA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/04 LINGUA E TRADUZIONE - LINGUA FRANCESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO AGRARIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/15 SCIENZE E TECNOLOGIE ALIMENTARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/14 NEFROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3530</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/50 SCIENZE TECNICHE MEDICHE APPLICATE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/06 ECONOMIA APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/06 LETTERATURA CRISTIANA ANTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/17 IMPIANTI INDUSTRIALI MECCANICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/03 FILOLOGIA ITALICA, ILLIRICA, CELTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/04 COSTRUZIONI E STRUTTURE AEROSPAZIALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3430</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/40 GINECOLOGIA E OSTETRICIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/05 STORIA DELLA SCIENZA E DELLE TECNICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/05 ANALISI MATEMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/05 ARCHEOLOGIA E STORIA DELL'ARTE DEL VICINO ORIENTE ANTICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3239</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/29 CHIRURGIA MAXILLOFACCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PROCESSUALE CIVILE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/01 STATISTICA MEDICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/14 PEDOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/09 FINANZA AZIENDALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/07 STORIA DELLA FILOSOFIA ANTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/19 ZOOTECNICA SPECIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/13 STORIA E ISTITUZIONI DELL'AFRICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/02 STATISTICA PER LA RICERCA SPERIMENTALE E TECNOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/42 MISURE ELETTRICHE E ELETTRONICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/04 FISIOLOGIA VEGETALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/15 FILOLOGIA GERMANICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/10 CHIMICA DEGLI ALIMENTI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3339</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/39 NEUROPSICHIATRIA INFANTILE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/09 LINGUA E TRADUZIONE - LINGUE PORTOGHESE E BRASILIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/08 GEOCHIMICA E VULCANOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/06 TECNOLOGIA DEL LEGNO E UTILIZZAZIONI FORESTALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/12 BIOCHIMICA CLINICA E BIOLOGIA MOLECOLARE CLINICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3239</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/29 INGEGNERIA DELLE MATERIE PRIME</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/14 FARMACOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3233</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/23 STORIA DELL'ASIA ORIENTALE E SUD-ORIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/13 FILOLOGIA DELLA LETTERATURA ITALIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/03 SCIENZA DELLE FINANZE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/05 DISCIPLINE DELLO SPETTACOLO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3431</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/41 ANESTESIOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/07 MUSICOLOGIA E STORIA DELLA MUSICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PUBBLICO COMPARATO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/16 MICROBIOLOGIA AGRARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 FILOSOFIA DEL DIRITTO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3334</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/34 BIOINGEGNERIA INDUSTRIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/10 FISICA TECNICA INDUSTRIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/39 AUTOMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 ISTITUZIONI DI DIRITTO PUBBLICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO CANONICO E DIRITTO ECCLESIASTICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/05 SCIENZA E TECNOLOGIA DEI MATERIALI POLIMERICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/06 PARASSITOLOGIA E MALATTIE PARASSITARIE DEGLI ANIMALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3233</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/23 CHIMICA FISICA APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/05 LETTERATURA SPAGNOLA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/11 ECONOMIA DEGLI INTERMEDIARI FINANZIARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PRIVATO COMPARATO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/11 ENTOMOLOGIA GENERALE E APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/08 PSICOLOGIA CLINICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/15 LINGUE E LETTERATURE NORDICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/09 SISTEMI PER L'ENERGIA E L'AMBIENTE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO ROMANO E DIRITTI DELL'ANTICHITA'</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D4747522F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-GGR/12 GEOGRAFIA ECONOMICO-POLITICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/18 STORIA DELL'ARCHITETTURA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/07 MICROBIOLOGIA E MICROBIOLOGIA CLINICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/15 ARCHITETTURA DEL PAESAGGIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/02 STORIA DELLA MEDICINA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/16 REUMATOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/05 ASTRONOMIA E ASTROFISICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/03 INGEGNERIA SANITARIA-AMBIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/20 LINGUA E LETTERATURA NEOGRECA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3333</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/33 MALATTIE APPARATO LOCOMOTORE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/03 ARBORICOLTURA GENERALE E COLTIVAZIONI ARBORE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/16 TECNOLOGIE E SISTEMI DI LAVORAZIONE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/07 CIVILTA' BIZANTINA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/04 DEMOGRAFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/01 FILOSOFIA TEORETICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/13 LETTERATURA TEDESCA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/07 ARCHEOLOGIA CLASSICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/15 BIOLOGIA FARMACEUTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/10 MALATTIE DELL'APPARATO RESPIRATORIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3337</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/37 NEURORADIOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/07 SEMITISTICA - LINGUE E LETTERATURE DELL'ETIOPIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/04 ANATOLISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/05 GEOLOGIA APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5045442F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PED/03 DIDATTICA E PEDAGOGIA SPECIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/07 FONDAMENTI CHIMICI DELLE TECNOLOGIE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/01 CIVILTA' EGEE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/08 LETTERATURA LATINA MEDIEVALE E UMANISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/02 GEOLOGIA STRATIGRAFICA E SEDIMENTOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3232</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/22 LINGUE E LETTERATURE DEL GIAPPONE E DELLA COREA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/03 BOTANICA AMBIENTALE E APPLICATA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/08 LETTERATURA PORTOGHESE E BRASILIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/07 ECONOMIA AZIENDALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/06 FLUIDODINAMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/03 MECCANICA DEL VOLO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/07 GEOTECNICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/21 CHIRURGIA TORACICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/19 IMPIANTI NUCLEARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/03 PSICOMETRIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/07 SOCIOLOGIA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3433</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/43 MEDICINA LEGALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/10 LETTERATURA INGLESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/17 MALATTIE INFETTIVE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/12 OCEANOGRAFIA E FISICA DELL'ATMOSFERA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3235</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/25 PSCHIATRIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/36 ELETTRONICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/02 FISICA TEORICA, MODELLI E METODI MATEMATICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/12 TECNOLOGIA DELL'ARCHITETTURA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/09 GEORISORSE MINERARIE E APPLICAZIONI MINERALOGICO- PETROGRAFICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/02 STORIA GRECA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/08 STORIA DELLA FILOSOFIA MEDIEVALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/03 STORIA DELLE ISTITUZIONI POLITICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/08 DIDATTICA E STORIA DELLA FISICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/05 IMPIANTI E SISTEMI AEROSPAZIALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/09 SOCIOLOGIA DEI PROCESSI ECONOMICI E DEL LAVORO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO COSTITUZIONALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/03 FILOSOFIA MORALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/08 ANATOMIA PATOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/03 STORIA DELL'EUROPA ORIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/08 ARCHIVISTICA, BIBLIOGRAFIA E BIBLIOTECONOMIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/02 FISIOLOGIA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/13 ENDOCRINOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/04 PSICOLOGIA DELLO SVILUPPO E PSICOLOGIA DELL'EDUCAZIONE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/01 STATISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/01 PSICOLOGIA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/13 ARMENISTICA, CAUCASOLOGIA, MONGOLISTICA E TURCOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/12 CHIMICA DELL'AMBIENTE E DEI BENI CULTURALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/19 CHIRURGIA PLASTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/06 MINERALOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3330</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/30 MALATTIE APPARATO VISIVO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/12 LINGUISTICA ITALIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/11 SOCIOLOGIA DEI FENOMENI POLITICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/15 MALATTIE DEL SANGUE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/07 FISICA MATEMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3335</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/35 INGEGNERIA ECONOMICO-GESTIONALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613032:4649532F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 02 Scienze fisiche: FIS/06 FISICA PER IL SISTEMA TERRA E IL MEZZO CIRCUMTERRESTRE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/15 LINGUA E LETTERATURA PERSIANA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3432</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/42 IGIENE GENERALE E APPLICAT</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3338</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/38 PEDIATRIA GENERALE E SPECIALISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/12 STORIA ECONOMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/03 GENETICA MEDICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/11 CHIMICA E BIOTECNOLOGIA DELLE FERMENTAZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5045442F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PED/02 STORIA DELLA PEDAGOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/02 BOTANICA SISTEMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3335</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/35 MALATTIE CUTANEE E VENEREE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/01 STORIA DELL'ARTE MEDIEVALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO DELL'ECONOMIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/01 GLOTTOLOGIA E LINGUISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/04 SCIENZA POLITICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/41 BIOINGEGNERIA ELETTRONICA E INFORMATICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/03 PATOLOGIA GENERALE E ANATOMIA PATOLOGICA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/01 CHIMICA ANALITICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3131</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/11 FISICA TECNICA AMBIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3237</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/27 CHIMICA INDUSTRIALE E TECNOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613034:47454F2F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 04 Scienze della terra: GEO/10 GEOFISICA DELLA TERRA SOLIDA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/02 EGITTOLOGIA E CIVILTA' COPTA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/01 IDRAULICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3139</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 STORIA DEL DIRITTO MEDIEVALE E MODERNO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/02 PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/06 STORIA DELLE RELIGIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/12 PATOLOGIA VEGETALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/06 STORIA DELLE RELAZIONI INTERNAZIONALI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3334</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/34 MEDICINA FISICA E RIABILITATIVA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613134:5350532F3130</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 14 Scienze politiche e sociali: SPS/10 SOCIOLOGIA DELL'AMBIENTE E DEL TERRITORIO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033:4348494D2F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche: CHIM/08 CHIMICA FARMACEUTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/03 ASSIRIOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/08 MACCHINE A FLUIDO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/02 COSTRUZIONI IDRAULICHE E MARITTIME E IDROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D5053492F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-PSI/07 PSICOLOGIA DINAMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/21 URBANISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/04 PATOLOGIA GENERALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/02 LINGUA E LETTERATURA GRECA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/08 ECONOMIA E GESTIONE DELLE IMPRESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/21 SLAVISTICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/02 COSTRUZIONI E IMPIANTI NAVALI E MARINI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/01 PREISTORIA E PROTOSTORIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613031:4D41542F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 01 Scienze matematiche e informatiche: MAT/08 ANALISI NUMERICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/37 CAMPI ELETTROMAGNETICI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613033</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 03 Scienze chimiche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E462F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/40 SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO PRIVATO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/05 FILOSOFIA E TEORIA DEI LINGUAGGI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4152542F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ART/02 STORIA DELL'ARTE MODERNA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3231</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/21 LINGUE E LETTERATURE DELLA CINA E DELL'ASIA SUD-ORIENTALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/18 GENETICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D414E542F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-ANT/08 ARCHEOLOGIA CRISTIANA E MEDIEVALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/06 TOPOGRAFIA E CARTOGRAFIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:5645542F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: VET/07 FARMACOLOGIA E TOSSICOLOGIA VETERINARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/13 DISEGNO INDUSTRIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/12 LINGUA E LETTERATURA ARABA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/06 LINGUA E LETTERATURE ISPANO-AMERICANE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3135</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/15 DISEGNO E METODI DELL'INGEGNERIA INDUSTRIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613035:42494F2F3036</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 05 Scienze biologiche: BIO/06 ANATOMIA COMPARATA E CITOLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO DEL LAVORO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3438</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/48 SCIENZE INFERMIERISTICHE E TECNICHE NEURO-PSICHIATRICHE E RIABILITATIVE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3234</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/24 UROLOGIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/04 STORIA CONTEMPORANEA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D4544462F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-EDF/02 METODI E DIDATTICHE DELLE ATTIVITA' SPORTIVE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D53544F2F3037</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-STO/07 STORIA DEL CRISTIANESIMO E DELLE CHIESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4F522F3136</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-OR/16 ARCHEOLOGIA E STORIA DELL'ARTE DELL'INDIA E DELL'ASIA CENTRALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D532F3035</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-S/05 STATISTICA SOCIALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613132:4955532F3133</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 12 Scienze giuridiche: IUS/01 DIRITTO INTERNAZIONALE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613039:494E472D494E442F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 09 Ingegneria industriale e dell'informazione: ING-IND/20 MISURE E STRUMENTAZIONE NUCLEARI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3132</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/12 LINGUA E TRADUZIONE - LINGUA INGLESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613133:534543532D502F3032</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 13 Scienze economiche e statistiche: SECS-P/02 POLITICA ECONOMICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3137</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/17 ZOOTECNICA GENERALE E MIGLIORAMENTO GENETICO</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D46494C2D4C45542F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-FIL-LET/04 LINGUA E LETTERATURA LATINA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D46494C2F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-FIL/04 ESTETICA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613131:4D2D4445412F3031</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 11 Scienze storiche, filosofiche, pedagogiche e psicologiche: M-DEA/10 DISCIPLINE DEMOETNOANTROPOLOGICHE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3039</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/09 MECCANICA AGRARIA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613037:4147522F3034</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 07 Scienze agrarie e veterinarie: AGR/04 ORTICOLTURA E FLORICOLTURA</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3230</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/20 CHIRURGIA PEDIATRICA E INFANTILE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613038:494341522F3038</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 08 Ingegneria civile e Architettura: ICAR/08 SCIENZA DELLE COSTRUZIONI</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613130:4C2D4C494E2F3138</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 10 Scienze dell'antichita', filologico-letterarie e storico-artistiche: L-LIN/18 LINGUA E LETTERATURA ALBANESE</setName></set>
+  <set>
+    <setSpec>7375626A656374733D417265613036:4D45442F3237</setSpec>
+    <setName>Settori Scientifico-Disciplinari  = Area 06 Scienze mediche: MED/27 NEUROCHIRURGIA</setName></set></ListSets></OAI-PMH>
